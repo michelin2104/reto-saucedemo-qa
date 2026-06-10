@@ -21,16 +21,14 @@ reto-saucedemo-qa/
 ⚙️ Configuración e Instalación   
 ## Clonar el repositorio:
 
-```text
-git clone <URL_DE_TU_REPOSITORIO_DE_GITHUB>
+git clone https://github.com/michelin2104/reto-saucedemo-qa.git
 cd reto-saucedemo-qa
 
-## Instalar las dependencias del proyecto:
+Instalar las dependencias del proyecto:
 
-```text
 npm install
 
-## Instalar los navegadores binarios de Playwright:
+Instalar los navegadores binarios de Playwright:
 
-```text
+
 npx playwright install
