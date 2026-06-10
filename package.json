@@ -1,0 +1,17 @@
+{
+  "name": "reto-saucedemo-qa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "cucumber-js --import step_definitions/**/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "10.8.0",
+    "@playwright/test": "^1.44.0"
+  }
+}
