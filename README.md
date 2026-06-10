@@ -18,3 +18,19 @@ reto-saucedemo-qa/
 ├── cucumber.json       # Archivo de configuración para Cucumber.js
 └── package.json        # Dependencias y scripts del proyecto
 
+⚙️ Configuración e Instalación   
+## Clonar el repositorio:
+
+```text
+git clone <URL_DE_TU_REPOSITORIO_DE_GITHUB>
+cd reto-saucedemo-qa
+
+## Instalar las dependencias del proyecto:
+
+```text
+npm install
+
+## Instalar los navegadores binarios de Playwright:
+
+```text
+npx playwright install
